@@ -30,7 +30,7 @@ function App() {
     <tr>
       <td>วิทยาลัยปวช.</td>
       <td>วิทยาลัยอาชีวศึกษาชลบุรี</td>
-      <td>2567</td>
+      <td>2566</td>
     </tr>
   </tbody>
  </table>
